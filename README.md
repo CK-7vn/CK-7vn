@@ -7,18 +7,14 @@
 </div>
 
 
+## About Me! ##
+I'm currently a student, and I should probably write more...
 
-## Current Languages and tech I'm learning or can stand on 
-- Go
-- Python
-- Machine Learning
-- JavaScript
-- TypeScript
-- C++
-- C
-- HTML
-- CSS
-- Neovim
+## Current Languages and tech I'm learning or can stand on ##
+<p align="center">
+  <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=go,neovim,py,ts,vite,cpp,docker,git,github,html,lua,react,tailwind,&perline=15">
+</p>
 
 <div align="center">
   <p></p>
