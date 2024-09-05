@@ -8,7 +8,8 @@
 
 
 ## About Me! ##
-I'm currently a student, and I should probably write more...
+I'm currently a student, incredibly passionate about software development, robotics, education, music, fitness, and the idea of making this world a better place for future generations. 
+I've recently fell in love with the idea of open source software and the opportunities it brings for community and collaboration, and am excited for the future. 
 
 ## Current Languages and tech I'm learning or can stand on ##
 <p align="center">
