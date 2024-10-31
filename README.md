@@ -17,7 +17,4 @@ I've recently fell in love with the idea of open source software and the opportu
 <img src="https://skillicons.dev/icons?i=go,neovim,py,ts,vite,cpp,docker,git,github,html,lua,react,tailwind,css,linux&perline=15">
 </p>
 
-<div align="center">
-  <p></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CK-7vn&layout=compact"/>
-</div>
+
