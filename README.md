@@ -20,7 +20,7 @@ I've recently fell in love with the idea of open source software and the opportu
 ## Current Languages and tech I'm learning or can stand on ##
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=go,neovim,py,ts,vite,cpp,docker,git,github,html,lua,react,tailwind,css,linux,c&perline=15">
+<img src="https://skillicons.dev/icons?i=linux,rust,go,py,c,ts,neovim,cpp,docker,git,github,html,lua,react,css&perline=15">
 </p>
 
 
