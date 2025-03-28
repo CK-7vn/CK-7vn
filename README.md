@@ -1,4 +1,3 @@
-
 <h1 align="center">Interested people watch obsessed people change the world. <p style="font-size:1px">-Tim Grover</p></h1>
 
 <h3 align="center">Software enthusiast, Code obsessed 🚀</h3>
@@ -14,8 +13,9 @@
 
 
 ## About Me! ##
-I'm currently a student, incredibly passionate about software development, robotics, education, music, fitness, and the idea of making this world a better place for future generations. 
-I've recently fell in love with the idea of open source software and the opportunities it brings for community and collaboration, and am excited for the future. 
+I'm currently a senior computer science undergrad, incredibly passionate about software development, robotics, education, music, fitness, and the idea of making this world a better place for future generations. 
+Currently incarcerated at a minimum custody department of corrections facility on the East Coast and using that time to give back to my community, build a better life for my family, and help change the future. 
+
 
 ## Current Languages and tech I'm learning or can stand on ##
 <p align="center">
