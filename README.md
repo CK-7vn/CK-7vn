@@ -14,7 +14,7 @@
 
 ## About Me! ##
 I'm currently a senior computer science undergrad, incredibly passionate about software development, robotics, education, music, fitness, and the idea of making this world a better place for future generations. 
-Currently incarcerated at a minimum custody department of corrections facility on the East Coast and using that time to give back to my community, build a better life for my family, and help change the future. 
+Currently incarcerated at a minimum custody department of corrections facility on the East Coast and with the help of some amazing individuals ive been able to use this time to give back to my community, build a better life for my family, help change the future, and make sure everyday I'm a little bit better than I was the day before. 
 
 
 ## Current Languages and tech I'm learning or can stand on ##
