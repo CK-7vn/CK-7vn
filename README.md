@@ -2,7 +2,7 @@
 
 <h3 align="center">Software enthusiast, Code obsessed 🚀</h3>
 <div align="center">
-<img style="justify-content: center; align-items: center; " src="https://komarev.com/ghpvc/?username=CK-7vn&style=flat-square&color=blue" alt=""/> <a style="justify-content: center; align-items: right; " href="mailto:keighan.robichaudgriffin@maine.edu"><img src="https://img.shields.io/badge/Email%20Me!-fire" alt="Email"></a><a style="justify-content: center; align-items: right;" href="https://www.boot.dev/u/ck-7vn"> <img src="https://img.shields.io/badge/Boot.dev-Profile-blue" alt="Boot.dev Profile"></a>
+<img style="justify-content: center; align-items: center; " src="https://komarev.com/ghpvc/?username=CK-7vn&style=flat-square&color=blue" alt=""/> <a style="justify-content: center; align-items: right; " href="mailto:keighan@unlockedlabs.org"><img src="https://img.shields.io/badge/Email%20Me!-fire" alt="Email"></a><a style="justify-content: center; align-items: right;" href="https://www.boot.dev/u/ck-7vn"> <img src="https://img.shields.io/badge/Boot.dev-Profile-blue" alt="Boot.dev Profile"></a>
 <div>
   <div>
     <img style="align-items;" src="https://github-readme-stats-six-kappa-40.vercel.app/api?username=ck-7vn&theme=graywhite&show_icons=true&hide_border=false&count_private=true"/>
@@ -13,7 +13,7 @@
 
 
 ## About Me! ##
-I'm currently a senior computer science undergrad, incredibly passionate about software development, robotics, education, music, fitness, Jesus Christ, and the idea of making this world a better place for future generations. 
+I'm currently a senior computer science undergrad, incredibly passionate about software development, robotics, machine learning, artificial intelligence, web3, education, music, fitness, Jesus Christ, and the idea of making this world a better place for future generations. 
 Currently incarcerated at a minimum custody department of corrections facility on the East Coast and with the help of some amazing individuals ive been able to use this time to give back to my community, build a better life for my family, help change the future, and make sure everyday I'm a little bit better than I was the day before. 
 
 
