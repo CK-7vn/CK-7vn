@@ -1,6 +1,6 @@
 <h1 align="center">Interested people watch obsessed people change the world. <p style="font-size:1px">-Tim Grover</p></h1>
 
-<h3 align="center">Software enthusiast, Code obsessed 🚀</h3>
+<h3 align="center">Everything you want is on the other side of hard -Monty Williams 🙏</h3>
 <div align="center">
 <img style="justify-content: center; align-items: center; " src="https://komarev.com/ghpvc/?username=CK-7vn&style=flat-square&color=blue" alt=""/> <a style="justify-content: center; align-items: right; " href="mailto:keighan@unlockedlabs.org"><img src="https://img.shields.io/badge/Email%20Me!-fire" alt="Email"></a><a style="justify-content: center; align-items: right;" href="https://www.boot.dev/u/ck-7vn"> <img src="https://img.shields.io/badge/Boot.dev-Profile-blue" alt="Boot.dev Profile"></a>
 <div>
