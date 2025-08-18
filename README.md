@@ -2,7 +2,7 @@
 
 <h3 align="center">Everything you want is on the other side of hard -Monty Williams 🙏</h3>
 <div align="center">
-<img style="justify-content: center; align-items: center; " src="https://komarev.com/ghpvc/?username=CK-7vn&style=flat-square&color=blue" alt=""/> <a style="justify-content: center; align-items: right; " href="mailto:keighan@unlockedlabs.org"><img src="https://img.shields.io/badge/Email%20Me!-fire" alt="Email"></a><a style="justify-content: center; align-items: right;" href="https://www.boot.dev/u/ck-7vn"> <img src="https://img.shields.io/badge/Boot.dev-Profile-blue" alt="Boot.dev Profile"></a>
+<img style="justify-content: center; align-items: center; " src="https://komarev.com/ghpvc/?username=CK-7vn&style=flat-square&color=blue" alt=""/> <a style="justify-content: center; align-items: right; " href="mailto:keighan@unlockedlabs.org"><img src="https://img.shields.io/badge/Email%20Me!-fire" alt="Email"></a>
 <div>
   <div>
     <img style="align-items;" src="https://github-readme-stats-six-kappa-40.vercel.app/api?username=ck-7vn&theme=graywhite&show_icons=true&hide_border=false&count_private=true"/>
@@ -13,14 +13,21 @@
 
 
 ## About Me! ##
-I'm currently a senior computer science undergrad, incredibly passionate about software development, robotics, machine learning, artificial intelligence, web3, education, music, fitness, Jesus Christ, and the idea of making this world a better place for future generations. 
-Currently incarcerated at a minimum custody department of corrections facility on the East Coast and with the help of some amazing individuals ive been able to use this time to give back to my community, build a better life for my family, help change the future, and make sure everyday I'm a little bit better than I was the day before. 
+- Jesus Christ is **the** way
+- I have an amazing family
+- I graduated with my Bachelors degree in Computer Science in 23 months and maintained a 4.0 throughout it's entirety
+- I love learning
+- I am currently incarcerated at a Minimum security facility in Maine
+- I wouldn't be here if it wasn't for some truly amazing individuals
+- I ask that if I know something you don't know, tell me, please
+- I really think 1's, 0's and what you can do with them is super c00l
+- I currently work for Unlocked Labs
 
 
-## Current Languages and tech I'm learning or can stand on ##
+## What I'm Interested In ##
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=linux,rust,go,py,c,ts,neovim,cpp,docker,git,github,html,lua,react,css&perline=15">
+<img src="https://skillicons.dev/icons?i=linux,rust,go,py,c,ts,neovim,cpp,docker,git,github,arduino,arch,aws,ai,kubernetes,opencv,solidity,tensorflow,wasm,zig&perline=7">
 </p>
 
 
