@@ -19,7 +19,7 @@
 - I love learning
 - I am currently incarcerated at a Minimum security facility in Maine
 - I wouldn't be here if it wasn't for some truly amazing individuals
-- I ask that if I know something you don't know, tell me, please
+- I ask that if you know something I don't know, share it with me, please
 - I really think 1's, 0's and what you can do with them is super c00l
 - I currently work for Unlocked Labs
 
