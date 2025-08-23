@@ -14,6 +14,7 @@
 
 ## About Me! ##
 - Jesus Christ is **the** way
+- I have a perfect Wife
 - I have an amazing family
 - I graduated with my Bachelors degree in Computer Science in 23 months and maintained a 4.0 throughout it's entirety
 - I love learning
