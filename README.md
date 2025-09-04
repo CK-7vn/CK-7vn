@@ -16,7 +16,7 @@
 - Jesus Christ is **the** way
 - I have a perfect Wife
 - I have an amazing family
-- I graduated with my Bachelors degree in Computer Science in 23 months and maintained a 4.0 throughout it's entirety
+- I graduated with my Bachelors degree in Computer Science in 23 months and maintained a 4.0 throughout it's entirety, this _does not_ mean I'm smart...I'm definitely not claiming to be
 - I love learning
 - I am currently incarcerated at a Minimum security facility in Maine
 - I wouldn't be here if it wasn't for some truly amazing individuals
